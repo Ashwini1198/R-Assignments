@@ -17,3 +17,7 @@ Data Frames can have different types of data inside it. While the first column c
 * Factors - 
 Factors are used to categorize data.
 To create a factor, use the factor() function and add a vector as argument.
+* If statement - 
+An "if statement" is written with the if keyword, and it is used to specify a block of code to be executed if a condition is TRUE.
+* While loop -
+It is a type of control statement which will run a statement or a set of statements repeatedly unless the given condition becomes false.
