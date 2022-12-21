@@ -21,3 +21,5 @@ To create a factor, use the factor() function and add a vector as argument.
 An "if statement" is written with the if keyword, and it is used to specify a block of code to be executed if a condition is TRUE.
 * While loop -
 It is a type of control statement which will run a statement or a set of statements repeatedly unless the given condition becomes false.
+* For loop - 
+A for loop is used for iterating over a sequence. for loop we can execute a set of statements, once for each item in a vector, array, list, etc..
